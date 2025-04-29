@@ -25,6 +25,7 @@
         "@walletconnect/universal-provider": "^2.12.2",
         "@web3modal/ethers": "^4.1.1",
         "axios": "^1.6.8",
+        "caniuse-lite": "^1.0.30001715",
         "color-thief-react": "^2.1.0",
         "dotenv": "^16.4.5",
         "ethers": "^6.11.1",
